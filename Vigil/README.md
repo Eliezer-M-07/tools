@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="401" height="187" alt="Vigil" src="https://github.com/user-attachments/assets/cc2ff0eb-2f0d-4ae3-80e9-1bd852b6ca41" />
+<img width="401" height="187" alt="Vigil" src="https://github.com/user-attachments/assets/a2d5ce60-e37f-472b-bec2-85d601666eaa" />
 
 Ferramenta de linha de comando desenvolvida em Python para verificação de disponibilidade de websites e portas de rede.
 
