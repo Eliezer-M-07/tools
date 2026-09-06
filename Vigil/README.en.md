@@ -90,7 +90,7 @@ The only external dependency currently used is the `requests` library.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Eliezer-M-07/tools.git
 ```
 
 Navigate to the project directory:

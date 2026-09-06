@@ -90,7 +90,7 @@ A única dependência externa utilizada atualmente é a biblioteca `requests`.
 Clone o repositório:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Eliezer-M-07/tools.git
 ```
 
 Acesse o diretório do projeto:
