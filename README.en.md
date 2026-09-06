@@ -19,8 +19,6 @@ The idea is to keep small projects and utilities created for specific purposes i
 
 Each tool has its own implementation and documentation, allowing it to be used independently.
 
----
-
 ## Tools
 
 ### [Vigil](./vigil)
@@ -29,6 +27,6 @@ Command-line tool developed in Python for checking the availability of websites 
 
 Vigil allows you to check website status, test TCP ports, and perform a complete analysis of a host, including its IPv4 address, HTTP status code, latency, and port status.
 
----
+##
 
 New tools will be added to the repository as they are developed.
